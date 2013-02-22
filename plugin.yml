@@ -1,0 +1,5 @@
+name: LevelUp
+author: tsieber
+authors: [tsieber]
+main: com.github.tsieber.LevelUp.LevelUp
+version: 1.0.1
